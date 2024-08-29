@@ -5,6 +5,7 @@ body{
     font-family: Quicksand;
     
 }
+
 header{
     background-image: url(soupHedar.jpg);
     height: 60vh;
@@ -14,12 +15,11 @@ header{
     margin-top: 0px;
     position: relative;
 }
-#title{
-    text-align: larger;
-    font-size: 20px;
-    margin-top: 100px;
+.title {
+    font-size: 50px;
+    padding-top: 80px;
+    color:white
     
-    position: relative;
 }
 #SoupImg {
     margin-top: 30vh;
