@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+}
+body{
+    font-family: Quicksand;
+    
+}
+header{
+    background-image: url(soupHedar.jpg);
+    height: 60vh;
+    background-size:cover;
+    border-bottom: solid 5px black;
+    text-align: center;
+    margin-top: 0px;
+    position: relative;
+}
+#title{
+    text-align: larger;
+    font-size: 20px;
+    margin-top: 100px;
+    
+    position: relative;
+}
+#SoupImg {
+    margin-top: 30vh;
+    align-content: center;
+    width: 50vh;
+    height: 50vh;
+}
+main {
+    font-size: large;
+    margin-top: 30vh;
+    text-align: center;
+    margin-left: 10px;
+    width: 90%;
+    
+    margin-left: 10vh;
+
+}
+p{
+    padding: 20px;
+}
+h2{
+    text-align: left;
+    background-color: antiquewhite;
+    border-radius: 50%;
+    width: 150px;
+}
+ul{
+    text-align: left;
+    padding: 20px;
+    list-style: square;
+    
+}
+.image {
+    margin-top: 0px;
+    
+    width: 30%;
+    align-content: center;
+}
